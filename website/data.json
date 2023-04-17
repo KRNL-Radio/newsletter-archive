@@ -1,6 +1,12 @@
 {
     "newsletter_issues": [
         {
+            "id": "8zgja-xxvz",
+            "title": "KRNL Newsletter - 75th Anniversary!",
+            "path": "2022/Block08Week01.md",
+            "date": "2023-04-17T16:28:00.000Z"
+        },
+        {
             "id": "zNWxm24aUx",
             "title": "KRNL Newsletter - Everything's Better in Twos!",
             "path": "2022/Block07Week03.md",
